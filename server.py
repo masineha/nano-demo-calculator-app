@@ -13,6 +13,7 @@ def add():
 
 @app.route("/calculator/subtract", methods=['POST'])
 def subtract():
+    pass
     return ''
 
 if __name__ == '__main__':
